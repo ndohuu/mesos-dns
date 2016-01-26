@@ -5,6 +5,6 @@
   "ttl": 5,
   "domain": "DOMAIN",
   "port": 53,
-  "resolvers": "RESOLVERS",
+  "resolvers": ["RESOLVERS"],
   "timeout": 5
 }
