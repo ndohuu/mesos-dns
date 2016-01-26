@@ -4,7 +4,7 @@
   "refreshSeconds": 5,
   "ttl": 5,
   "domain": "DOMAIN",
-  "port": 53,
+  "port": 54,
   "resolvers": ["RESOLVERS"],
   "timeout": 5
 }
