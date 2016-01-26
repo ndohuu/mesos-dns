@@ -1,10 +1,10 @@
 {
-  "zk": ZOOKEEPER_MESOS,
-  "masters": [MASTERS],
+  "zk": "ZOOKEEPER_MESOS",
+  "masters": ["MASTERS"],
   "refreshSeconds": 5,
   "ttl": 5,
-  "domain": DOMAIN,
+  "domain": "DOMAIN",
   "port": 53,
-  "resolvers": RESOLVERS,
+  "resolvers": "RESOLVERS",
   "timeout": 5
 }
